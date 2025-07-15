@@ -8,7 +8,7 @@ return(
     <>
     <Navbar/>
     <Hero
-    cName="h ero"
+    cName="hero"
     heroImg="./assets/12.jpg"
     title="Your Journey Your Story"
     text="Choose Your Favourite Destination."
